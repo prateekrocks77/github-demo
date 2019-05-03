@@ -1,5 +1,5 @@
 Test git  quick start demo
 This is the change.
 adding new changes ---staged.
-adding more changes         
+adding more changes --- working repository.
 
